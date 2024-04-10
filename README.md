@@ -1,5 +1,8 @@
-### Hi there 👋
+Hi! I'm primarily a Stardew Valley modder doing Content Patcher and Shop Tile Framework mods. I enjoy messing a bit with shops.
 
+I decided during the pandemic that none of the shop mods were really doing what I wanted in my game, which was make Community Center completion a bit easier (though not too easy). Thus, Hat Mouse Extra was born and posted under my NexusMods username, Ravenhyde. Even though my GitHub username is different, I'm sticking with Ravenhyde for my mod author name.
+
+With the jump to Stardew Valley 1.6, I'm working on a Hat Mouse Extra Redux mod (maybe with a slightly better name) that will just require Content Patcher, as well as a set of mods that are on the same theme, but add an extra item or two to some of the shops (tentatively titled "Raven's Tiny Additions" until I figure out a better name).
 <!--
 **lillibetsmith/lillibetsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
