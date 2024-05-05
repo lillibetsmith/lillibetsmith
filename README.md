@@ -2,7 +2,9 @@ Hi! I'm primarily a Stardew Valley modder doing Content Patcher and Shop Tile Fr
 
 I decided during the pandemic that none of the shop mods were really doing what I wanted in my game, which was make Community Center completion a bit easier (though not too easy). Thus, Hat Mouse Extra was born and posted under my NexusMods username, Ravenhyde. Even though my GitHub username is different, I'm sticking with Ravenhyde for my mod author name.
 
-With the jump to Stardew Valley 1.6, I'm working on a Hat Mouse Extra Redux mod (maybe with a slightly better name) that will just require Content Patcher, as well as a set of mods that are on the same theme, but add an extra item or two to some of the shops (tentatively titled "Raven's Tiny Additions" until I figure out a better name).
+With the jump to Stardew Valley 1.6, I'm working on a Hat Mouse Extra Redux mod (maybe with a slightly better name) that will just require Content Patcher. I've now released a similar mod, Raven's Tiny Shop Additions, which adds a random item or items each day to six different shops, as well as Raven's Slightly Easier Combat, which slightly lowers the health and damage of all the monsters in game.
+
+My next efforts will be to add more languages to Raven's Slightly Easier Combat, and complete Hat Mouse Extra Redux.
 <!--
 **lillibetsmith/lillibetsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
